@@ -1,0 +1,11 @@
+node_modules
+dist
+dev-dist
+*.log
+.DS_Store
+.env
+.env.*
+!.env.example
+scratch/
+supabase/.temp
+supabase/functions/trn-plan/_shared/
